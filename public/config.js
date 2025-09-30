@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "assliquid",
   "VITE_ORDERLY_BROKER_NAME": "AssLiquid",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/AssLiquid_DEX",
   "VITE_SEO_SITE_NAME": "Ass Liquid",
   "VITE_SEO_SITE_DESCRIPTION": "The first real perps exchange to take the best features of Hyperliquid and Aster and squeeze them together.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/assliquid-8459/",
+  "VITE_SEO_SITE_URL": "https://assliquid.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@AssLiquid_DEX",
