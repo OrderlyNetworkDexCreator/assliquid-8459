@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Portfolio,Trading,Markets,Leaderboard,Vaults,Rewards",
-  "VITE_CUSTOM_MENUS": "AI Analysis Platform, http://ai.assliquid.com/",
+  "VITE_CUSTOM_MENUS": "Cross Chain Swap, https://backdoorswap.xyz/; Gacha Market (Coming Soon), https://assliquid.shop/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
